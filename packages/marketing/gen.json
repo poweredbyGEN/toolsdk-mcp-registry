@@ -13,9 +13,7 @@
       "url": "https://mcp.gen.pro",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "gen"
-        ]
+        "scopes": ["gen"]
       }
     }
   ]
